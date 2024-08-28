@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|e:\\projects\\dotnet\\blogmanagementsysapi\\controllers\\jsonblogmngmtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|solutionrelative:controllers\\jsonblogmngmtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|e:\\projects\\dotnet\\blogmanagementsysapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|e:\\projects\\dotnet\\blogmanagementsysapi\\dataaccesslayer\\repositories\\jsonblogmngmtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|solutionrelative:dataaccesslayer\\repositories\\jsonblogmngmtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|e:\\projects\\dotnet\\blogmanagementsysapi\\dataaccesslayer\\models\\blogmngmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|solutionrelative:dataaccesslayer\\models\\blogmngmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|e:\\projects\\dotnet\\blogmanagementsysapi\\dataaccesslayer\\repositories\\blogmngmtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|solutionrelative:dataaccesslayer\\repositories\\blogmngmtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|e:\\projects\\dotnet\\blogmanagementsysapi\\controllers\\blogmngmtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|solutionrelative:controllers\\blogmngmtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|e:\\projects\\dotnet\\blogmanagementsysapi\\dataaccesslayer\\interface\\ijsonblogmngmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|solutionrelative:dataaccesslayer\\interface\\ijsonblogmngmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|e:\\projects\\dotnet\\blogmanagementsysapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D6248E1-E59B-438A-961A-10D6DA7D7FD4}|BlogManagementSysAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63360339:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1233975944:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:959125551:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogMngmt.cs",
+              "DocumentMoniker": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\DataAccessLayer\\Models\\BlogMngmt.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\BlogMngmt.cs",
+              "ToolTip": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\DataAccessLayer\\Models\\BlogMngmt.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\BlogMngmt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:14:19.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogMngmtRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\DataAccessLayer\\Repositories\\BlogMngmtRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\BlogMngmtRepository.cs",
+              "ToolTip": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\DataAccessLayer\\Repositories\\BlogMngmtRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\BlogMngmtRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:46:14.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJSONBlogMngmt.cs",
+              "DocumentMoniker": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\DataAccessLayer\\Interface\\IJSONBlogMngmt.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interface\\IJSONBlogMngmt.cs",
+              "ToolTip": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\DataAccessLayer\\Interface\\IJSONBlogMngmt.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interface\\IJSONBlogMngmt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:14:52.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogMngmtController.cs",
+              "DocumentMoniker": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\Controllers\\BlogMngmtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogMngmtController.cs",
+              "ToolTip": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\Controllers\\BlogMngmtController.cs",
+              "RelativeToolTip": "Controllers\\BlogMngmtController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:04:44.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JSONBlogMngmtController.cs",
+              "DocumentMoniker": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\Controllers\\JSONBlogMngmtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JSONBlogMngmtController.cs",
+              "ToolTip": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\Controllers\\JSONBlogMngmtController.cs",
+              "RelativeToolTip": "Controllers\\JSONBlogMngmtController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:38:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:31:38.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JSONBlogMngmtRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\DataAccessLayer\\Repositories\\JSONBlogMngmtRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\JSONBlogMngmtRepository.cs",
+              "ToolTip": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\DataAccessLayer\\Repositories\\JSONBlogMngmtRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\JSONBlogMngmtRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:28:06.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Projects\\DotNet\\BlogManagementSysAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T05:27:51.115Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
