@@ -9,9 +9,9 @@ This repository contains the code for a Blog Management System WebAPI, which all
 [{"Id":1,"BlogDesc":"sample data test11","UserName":"user1","CreatedDate":"27-08-2024"},{"Id":2,"BlogDesc":"sample data test 2","UserName":"user1","CreatedDate":"27-08-2024"}]
 
 # Data Model: 
-Id: Auto-incrementing integer -->Post IDs must be unique
-Username: String, required
-DateCreated: Date, required
-BlogDesc: String, required
+  Id: Auto-incrementing integer -->Post IDs must be unique
+  Username: String, required
+  DateCreated: Date, required
+  BlogDesc: String, required
 
 
