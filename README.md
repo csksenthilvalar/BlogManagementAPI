@@ -22,6 +22,27 @@
 ### 4. **Create a New .NET Core Project**
 ### 5. **Build and Run the Project**
 ### 6. **Managing Dependencies with NuGet**
+### 7. **Working with ASP.NET Core (Optional)**
+   
+### 8. **Use Configuration Files (Optional)**
+   - Use `appsettings.json` for configuration settings. You can access these configurations using the `IConfiguration` interface.
+
+### 9. **Debugging**
+   - In Visual Studio, you can start debugging by pressing `F5`.
+   - In Visual Studio Code, use the Debug panel and ensure your `.vscode/launch.json` is set up correctly.
+
+### 10. **Publishing the Application**
+   
+
+### 11. **Running Tests (Optional)**
+ 
+### 12. **Version Control with Git**
+ 
+### 13. **Dockerize Your .NET Core Application (Optional)**
+  
+### 14. **Deploying Your Application (Optional)**
+   - You can deploy your .NET Core application to various cloud services like Azure, AWS, or Google Cloud, or host it on a local server.
+
 This project was generated with .net Core 8.0
 
 This repository contains the code for a Blog Management System WebAPI, which allows users to create and manage blog posts. 
